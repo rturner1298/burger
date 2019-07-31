@@ -1,0 +1,19 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "Burger application",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rturner1298/burger.git"
+  },
+  "author": "Robert Turner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rturner1298/burger/issues"
+  },
+  "homepage": "https://github.com/rturner1298/burger#readme"
+}
